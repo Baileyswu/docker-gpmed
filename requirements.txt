@@ -1,0 +1,9 @@
+gpflow
+numpy
+scipy
+xlrd
+pandas
+jupyter
+matplotlib
+tensorflow
+jupyter_contrib_nbextensions

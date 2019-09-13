@@ -1,0 +1,7 @@
+Host lab902
+	User danliwoo
+	HostName 49.52.10.28
+
+Host lab904
+	User danliwoo
+	HostName 49.52.5.108
